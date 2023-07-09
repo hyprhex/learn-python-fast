@@ -20,3 +20,7 @@ we will use Python3
 
 Yeeeeeeeeeep Python it's open source project
 """
+
+# Write your first code with Python
+
+print('Hello World!') # Print is built in function we use to display something on screen.
